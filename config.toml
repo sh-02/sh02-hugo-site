@@ -1,4 +1,5 @@
 baseURL = "sh02.space"
 languageCode = "en-us"
+publishDir = "docs"
 title = "Sohail Hussain"
 theme = "lekh"
