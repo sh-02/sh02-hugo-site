@@ -1,4 +1,4 @@
-baseURL = "sh02.space"
+baseURL = "https://sh-02.github.io/sh02-hugo-site/"
 languageCode = "en-us"
 publishDir = "docs"
 title = "Sohail Hussain"
