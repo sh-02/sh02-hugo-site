@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Sohail Hussain</title>
-    <link>sh02.space/posts/</link>
+    <link>https://sh-02.github.io/sh02-hugo-site/posts/</link>
     <description>Recent content in Posts on Sohail Hussain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="sh02.space/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://sh-02.github.io/sh02-hugo-site/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About this site</title>
-      <link>sh02.space/posts/post-01/</link>
+      <link>https://sh-02.github.io/sh02-hugo-site/posts/post-01/</link>
       <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>sh02.space/posts/post-01/</guid>
+      <guid>https://sh-02.github.io/sh02-hugo-site/posts/post-01/</guid>
       <description>This site is created using Hugo
 Hosted using github webpages</description>
     </item>
