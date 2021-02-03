@@ -1,0 +1,29 @@
+Name = "Sohail Hussain"
+
+# Supports markdown
+About = "Linux and open source enthusiast. \n\nStudying Computer Networks and Security and Birmingham City University. "
+
+Email = "sohailhussain@tutanota.com"
+
+# Add the filename with file extension.
+Resume = ""
+
+# Sets the number of posts to display on the front page
+PostLimit = 2
+
+GoatCounterCode = ""
+
+
+
+[[profiles]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/sohailhussain-0602"
+
+[[profiles]]
+name = "GitHub"
+url = "https://github.com/sh-02"
+
+[[profiles]]
+name = "Twitter"
+url = "https://twitter.com/1sohailhussain1"
+
